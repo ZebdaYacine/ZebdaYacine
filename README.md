@@ -1,78 +1,83 @@
-👋 Hi, I'm Yacine
+# 👋 Hi, I'm Yacine
 
-Senior Backend Engineer passionate about building scalable, distributed, and high-availability systems.
+Senior Backend Engineer building scalable, distributed, and high-availability systems.
 
-🚀 Tech Stack
-🖥 Backend
+---
 
-Go
+## 🚀 About Me
 
-Java (Spring Boot)
+- 🔭 Backend specialist in **Go** and **Java (Spring Boot)**
+- 🧩 Designing **Microservices Architectures**
+- ☁️ Cloud & DevOps enthusiast
+- 🗄 Database and Always-On SQL systems architect
+- 🔗 Blockchain developer (Ethereum, Hyperledger, Solana)
+- 🖥 System Administration & Infrastructure Management
+- 🤔 Always exploring new technologies and software solutions
 
-Microservices Architecture
+---
 
-☁️ Cloud & DevOps
+## 🛠 Tech Stack
 
-AWS
+### 🖥 Backend
+- Go
+- Java (Spring Boot)
+- REST APIs
+- Microservices
 
-VPS Deployment
+### ☁️ Cloud & DevOps
+- AWS
+- VPS Deployment
+- CI/CD Pipelines
+- Docker
+- Serverless Architectures
+- Appwrite
+- Firebase
+- Supabase
 
-CI/CD Pipelines
+### 🗄 Databases
+- PostgreSQL
+- SQL Server
+- rqlite (Distributed SQL)
+- High-Availability SQL Systems
+- Always-On Database Architectures
 
-Docker
+### 🔗 Blockchain
+- Ethereum
+- Hyperledger Fabric
+- Solana
 
-Serverless Architectures
+### 🖧 System Administration
+- VMware
+- VirtualBox
+- Proxmox
+- Linux Server Management
 
-🗄 Databases
+---
 
-PostgreSQL
+## 🌱 Currently Learning
+- Advanced Distributed Systems
+- Cloud-Native Architecture
+- Serverless & Event-Driven Systems
 
-SQL Server
+---
 
-rqlite (Distributed SQL)
+## 🤝 Open to Collaborate On
+- Backend & Microservices Projects
+- Distributed Database Systems
+- Blockchain Applications
+- DevOps & Infrastructure Engineering
 
-High-Availability & Always-On SQL Architectures
+---
 
-🔗 Blockchain
+## 💬 Interests
+♟ Chess  
+🎬 Anime & Movies  
 
-Ethereum
+---
 
-Hyperledger Fabric
-
-Solana
-
-🖧 System Administration
-
-VMware
-
-VirtualBox
-
-Proxmox
-
-Linux Server Management
-
-🌱 Currently Exploring
-
-Advanced Distributed Systems
-
-Cloud-Native Architectures
-
-Serverless & Event-Driven Systems
-
-🤝 Open to Collaborate On
-
-Microservices & Backend Systems
-
-Distributed Database Solutions
-
-Blockchain Applications
-
-DevOps & Infrastructure Projects
-
-💬 Interests
-
-Chess ♟ | Anime 🎬 | Movies
-
-📫 Contact
-
+## 📫 Contact
 📧 zebdaadam1996@gmail.com
+
+---
+
+⭐ Always building. Always learning.
