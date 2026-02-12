@@ -32,7 +32,6 @@ Senior Backend Engineer building scalable, distributed, and high-availability sy
 - Serverless Architectures
 - Appwrite
 - Firebase
-- Supabase
 
 ### 🗄 Databases
 - PostgreSQL
@@ -44,7 +43,6 @@ Senior Backend Engineer building scalable, distributed, and high-availability sy
 ### 🔗 Blockchain
 - Ethereum
 - Hyperledger Fabric
-- Solana
 
 ### 🖧 System Administration
 - VMware
@@ -54,20 +52,6 @@ Senior Backend Engineer building scalable, distributed, and high-availability sy
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Distributed Systems
-- Cloud-Native Architecture
-- Serverless & Event-Driven Systems
-
----
-
-## 🤝 Open to Collaborate On
-- Backend & Microservices Projects
-- Distributed Database Systems
-- Blockchain Applications
-- DevOps & Infrastructure Engineering
-
----
 
 ## 💬 Interests
 ♟ Chess  
