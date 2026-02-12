@@ -1,12 +1,20 @@
- Hi there 👋 .I am Yacine. I am web developer.
 
 
-- 🔭 I am working on web devolopment using vue js and node js.
-- 🌱 I’m currently learning Qwik js and serverless technologies.
-- 👯 I’m looking to collaborate on Flutter or KMM
-- 🤔 Exploring new technologies and developing software solutions.
-- 💬 chess,anime,movies 
-- 📫 contact me on :zebdaadam1996@gmail.com 
+👋 Hi, I'm Yacine
+
+Senior Backend Engineer building scalable, high-availability systems.
+
+🚀 Go | Java (Spring Boot) | Microservices
+☁️ AWS | VPS | Serverless (Appwrite, Firebase, Supabase) |Cloud Solutions & VPS Infrastructure
+🗄 PostgreSQL | SQL Server | Mysql | Mongodb 
+🔗 Blockchain: Ethereum | Hyperledger | Solana
+🔁 CI/CD Pipelines
+🖥 System Administration (VMware, VirtualBox, Proxmox)
+🧱 High Availability & Fault Tolerance Design rqlite| PostgresClustring| sql server allwaysOn
+
+♟ Chess | 🎬 Anime & Movies
+
+📫 zebdaadam1996@gmail.com
 
 
 
