@@ -21,7 +21,7 @@ Senior Backend Engineer building scalable, distributed, and high-availability sy
 ### 🖥 Backend
 - Go
 - Java (Spring Boot)
-- REST APIs
+- REST APIs | Grps | GraphQL
 - Microservices
 
 ### ☁️ Cloud & DevOps
